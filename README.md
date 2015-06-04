@@ -1,4 +1,4 @@
-# GR8Conf 2015
+# GR8Conf 2015: Spring Boot and Groovy. What more do you need?
 
 This is the demo project for my talk [Spring Boot and Groovy. What more do you need?](http://gr8conf.eu/#/talk/140) from GR8Conf EU 2015.
 
