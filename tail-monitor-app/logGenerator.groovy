@@ -1,6 +1,7 @@
 package eu.gr8conf
 
 import groovy.util.logging.Slf4j
+import org.springframework.scheduling.annotation.EnableScheduling
 import org.springframework.scheduling.annotation.Scheduled
 
 @Slf4j
